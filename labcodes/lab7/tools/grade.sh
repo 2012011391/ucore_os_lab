@@ -638,3 +638,4 @@ run_test -prog 'matrix'     -check default_check                \
 
 ## print final-score
 show_final
+
